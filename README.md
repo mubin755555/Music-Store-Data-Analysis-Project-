@@ -3,7 +3,7 @@ This repository contains a comprehensive data analysis project focused on a Musi
 
 # 📁 Project Overview
 The project uses a relational database representing a music store. It includes structured data about customers, invoices, artists, albums, and tracks. The main objectives of this analysis are:
-. Identifying sales trends.
+- Identifying sales trends.
 . Analyzing customer behavior.
 . Exploring relationships between artists, albums, and tracks.
 # 🛠️ Tools & Technologies
