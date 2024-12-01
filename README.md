@@ -12,7 +12,8 @@ The project uses a relational database representing a music store. It includes s
 - **Platform:** Local/PostgreSQL Server
 - **Visualization Tools:** (Optional if integrated later)
   **Schema- Music Store Database**
-  ![Alt Text](path/to/your/image.png)
+  
+  ![Alt Text](path/to/"G:\PROJECTS\Music store project\CSV file\schema_diagram.png"/image.png)
 
 
 # 📂 Project Structure
