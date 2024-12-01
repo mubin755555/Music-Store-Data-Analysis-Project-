@@ -42,6 +42,7 @@ This project is licensed under the MIT License.
 Feel free to contribute! Open a pull request or raise an issue for any enhancements or suggestions.
 
 📧 Contact
-Md. Mubin Khan
-GitHub Profile
-LinkedIn
+- https://github.com/mubin755555
+- www.linkedin.com/in/mubinkhan5
+
+
