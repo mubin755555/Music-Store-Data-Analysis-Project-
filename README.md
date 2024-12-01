@@ -12,10 +12,7 @@ The project uses a relational database representing a music store. It includes s
 - **Platform:** Local/PostgreSQL Server
 - **Visualization Tools:** (Optional if integrated later)
   **Schema- Music Store Database**
-  git add images/my-picture.png
-git commit -m "Added image"
-git push
-
+  
 
 # 📂 Project Structure
 **Music_Store_database.sql:** SQL file containing the schema and data for the music store database.
